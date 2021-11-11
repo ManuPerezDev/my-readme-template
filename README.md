@@ -19,8 +19,8 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![MIT License][license-shield]](https://opensource.org/licenses/MIT)
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/manuel-perez-regalado/)
 
 
 
@@ -31,7 +31,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">My-README-Template</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
