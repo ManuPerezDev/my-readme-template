@@ -182,7 +182,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://opensource.org/licenses/MIT
+[license-url]: https://github.com/Pandacore/my-readme-template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/manuel-perez-regalado/
 [blog-shield]: https://img.shields.io/badge/Blog-manuelperez.dev-blue?style=for-the-badge&logo=hashnode
